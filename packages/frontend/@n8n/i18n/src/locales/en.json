@@ -2966,7 +2966,7 @@
 	"settings.mfa.title": "Multi-factor Authentication",
 	"settings.mfa.updateConfiguration": "MFA configuration updated",
 	"settings.mfa.invalidAuthenticatorCode": "Invalid authenticator code",
-	"projects.header.overview.subtitle": "All the workflows, credentials and executions you have access to",
+	"projects.header.overview.subtitle": "All the workflows, credentials and executions you have access to in one place 11111111",
 	"projects.header.shared.title": "Shared with you",
 	"projects.header.personal.subtitle": "Workflows and credentials owned by you",
 	"projects.header.shared.subtitle": "Workflows and credentials other users have shared with you",

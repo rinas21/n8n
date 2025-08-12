@@ -107,7 +107,8 @@ describe('ProjectHeader', () => {
 	it('Overview: should render the correct title and subtitle', async () => {
 		vi.spyOn(projectPages, 'isOverviewSubPage', 'get').mockReturnValue(true);
 		const { getByTestId, rerender } = renderComponent();
-		const overviewSubtitle = 'All the workflows, credentials and executions you have access to';
+		const overviewSubtitle =
+			'All the workflows, credentials and executions you have access to in one place 11111111';
 
 		await rerender({});
 
